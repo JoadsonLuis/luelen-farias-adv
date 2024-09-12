@@ -1,1 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Luelen Farias - Advogada Especialista em Direito Previdenciário. Descomplicando seus direitos.">
+    <meta name="keywords" content="advocacia, direito previdenciário, advogada, direitos, INSS, aposentadoria">
+    <title>Luelen Farias | Advogada Especialista em Direito Previdenciário</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #2E8B57;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 2.5em;
+        }
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+        .intro {
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        .cta {
+            margin: 40px 0;
+        }
+        .cta a {
+            background-color: #2E8B57;
+            color: white;
+            padding: 15px 25px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1.2em;
+        }
+        .cta a:hover {
+            background-color: #006400;
+        }
+        footer {
+            background-color: #2E8B57;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        footer p {
+            margin: 5px 0;
+        }
+        footer a {
+            color: #fff;
+            text-decoration: none;
+        }
+        .social {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .social a {
+            color: #2E8B57;
+            font-size: 2em;
+            text-decoration: none;
+            transition: color 0.3s;
+        }
+        .social a:hover {
+            color: #006400;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Luelen Farias</h1>
+        <p>Advogada Especialista em Direito Previdenciário ⚖️🖋️</p>
+    </header>
+
+    <section>
+        <div class="intro">
+            <h2>Descomplicando seus direitos</h2>
+            <p>A advogada Luelen Farias é especialista em Direito Previdenciário, oferecendo orientação clara e direta para que você entenda e garanta seus direitos. Não deixe seus direitos passarem despercebidos #dormiuperdeu.</p>
+        </div>
+
+        <div class="cta">
+            <a href="https://www.instagram.com/luelen_adv/" target="_blank">Siga no Instagram</a>
+        </div>
+        
+        <div class="social">
+            <a href="https://www.instagram.com/luelen_adv/" target="_blank" title="Instagram">📷</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2024 Luelen Farias - Todos os direitos reservados</p>
+        <p><a href="https://www.instagram.com/luelen_adv/" target="_blank">Visite nosso Instagram</a></p>
+    </footer>
+
+</body>
+</html>
 # luelen-farias-adv
